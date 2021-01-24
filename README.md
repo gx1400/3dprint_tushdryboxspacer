@@ -14,11 +14,9 @@ Autocad Fusion 360
 
 Ultimaker Cura 4.8.0
 - Printer: Creality CR6 SE
-
 - Layer Height: 0.2mm
 - Infill Density: 20%
 - Infill Pattern: Grid
-
 - Filament: Inland PLA+ 1.75mm Black
 - Material: PLA+
 - Print Temperature: 215 degrees C
