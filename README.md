@@ -6,6 +6,24 @@ This is a spacer that fits onto the 5/16" rod in my 20QT Sterilite dry box.
 
 2021/01/24 - Add photos
 
+## Design
+
+Autocad Fusion 360 
+
+## Slicer
+
+Ultimaker Cura 4.8.0
+
+- Printer: Creality CR6 SE
+
+- Layer Height: 0.2mm
+- Infill Density: 20%
+- Infill Pattern: Grid
+
+- Filament: Inland PLA+ 1.75mm Black
+- Material: PLA+
+- Print Temperature: 215 degrees C
+
 # Drybox Thingiverse designs
 
 - [The Ultimate Spool Holder Dry Box by ritchrock](https://www.thingiverse.com/thing:2929701)
