@@ -13,7 +13,6 @@ Autocad Fusion 360
 ## Slicer
 
 Ultimaker Cura 4.8.0
-
 - Printer: Creality CR6 SE
 
 - Layer Height: 0.2mm
